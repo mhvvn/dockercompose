@@ -1,8 +1,15 @@
-$ mkdir composetest
-$ cd composetest
-create app.yml
-create requirements.txt
-create Dockerfile
-create docker-compose.yml
-running docker-compose up.
-you can also try http://0.0.0.0:5000
+1. $ mkdir composetest
+
+2. $ cd composetest
+
+3. create app.yml
+
+4. create requirements.txt
+
+5. create Dockerfile
+
+6. create docker-compose.yml
+
+7. running docker-compose up.
+
+8. you can also try http://0.0.0.0:5000
